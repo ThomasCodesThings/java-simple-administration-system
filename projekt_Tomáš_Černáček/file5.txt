@@ -1,0 +1,4 @@
+Markovce Nad Dubnikom
+Chips 10
+Shovel 2
+Pie 3

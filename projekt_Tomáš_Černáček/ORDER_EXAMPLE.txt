@@ -1,0 +1,3 @@
+Nazov_objednavky
+Produkt1 Pocet
+Produkt2 Pocet

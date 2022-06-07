@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="757.5" y="0.0">tools.JSOInterface</node>
+    <node x="0.0" y="1292.0">base.Status</node>
+    <node x="277.0" y="520.0">infrastructure.Owner</node>
+    <node x="646.0" y="1037.0">system.AutoCrafter</node>
+    <node x="232.0" y="1037.0">core.Main</node>
+    <node x="1202.0" y="1037.0">system.OrderSolver</node>
+    <node x="471.49999999999994" y="193.0">warehouse.Warehouse</node>
+    <node x="119.49999999999997" y="238.0">base.Person</node>
+    <node x="8.5" y="847.0">infrastructure.Supervisor</node>
+    <node x="827.0" y="1037.0">base.Country</node>
+    <node x="0.0" y="564.0">infrastructure.Employee</node>
+    <node x="1047.5" y="0.0">OrderSystem.Order</node>
+    <node x="0.0" y="1037.0">warehouse.Product</node>
+    <node x="329.75" y="0.0">base.Residence</node>
+    <node x="426.0" y="1037.0">base.Weight</node>
+    <node x="990.0" y="1037.0">system.Printer</node>
+    <node x="757.5" y="214.0">tools.JSONInfo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="infrastructure.Employee" target="base.Person">
+      <point x="0.0" y="-94.5" />
+      <point x="128.5" y="495.0" />
+      <point x="202.49999999999997" y="495.0" />
+      <point x="-83.0" y="93.5" />
+    </edge>
+    <edge source="tools.JSONInfo" target="tools.JSOInterface">
+      <point x="0.0" y="-116.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+    <edge source="infrastructure.Owner" target="base.Person">
+      <point x="0.0" y="-138.5" />
+      <point x="442.5" y="495.0" />
+      <point x="368.5" y="495.0" />
+      <point x="83.0" y="93.5" />
+    </edge>
+    <edge source="infrastructure.Supervisor" target="infrastructure.Employee">
+      <point x="0.0" y="-72.5" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="base.Person" target="base.Residence">
+      <point x="0.0" y="-93.5" />
+      <point x="285.5" y="168.0" />
+      <point x="384.25" y="168.0" />
+      <point x="-54.5" y="71.5" />
+    </edge>
+    <edge source="warehouse.Warehouse" target="base.Residence">
+      <point x="0.0" y="-138.5" />
+      <point x="592.0" y="168.0" />
+      <point x="493.25" y="168.0" />
+      <point x="54.5" y="71.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="737.5" y="423.0" />
+  <SelectedNodes>
+    <node>base.Residence</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

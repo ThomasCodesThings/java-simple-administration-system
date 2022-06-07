@@ -1,0 +1,1 @@
+[{"employee":{"firstName":"Tomáš","lastName":"Černáček","gender":"male","id":"12345","age":"21","status":"OWNER"}},{"employee":{"firstName":"Wiliama","lastName":"Rukfoa","gender":"female","id":8100,"age":45,"status":"EMPLOYEE"}}]
